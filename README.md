@@ -149,10 +149,16 @@ Open `static/index.html` in your browser to view the dashboard.
 <img width="923" height="356" alt="image" src="https://github.com/user-attachments/assets/015da259-2e4d-4611-ba6c-69b6bbced4ee" />
 # We can search the nodes inside the workflows as well.
 <img width="292" height="321" alt="image" src="https://github.com/user-attachments/assets/272cf1d1-80ad-4d5c-b712-f7f2696ac201" />
+
+
 # We can view the workflows in the web app, Also can view it on N8N.
 <img width="947" height="436" alt="image" src="https://github.com/user-attachments/assets/467483df-29b1-4b54-8007-e66792418735" />
+
+
 # Active and published workflows
 <img width="930" height="389" alt="image" src="https://github.com/user-attachments/assets/501c9604-ba5d-41b0-9871-5fbca7d24ef9" />
+
+
 # Inactive Workflows
 <img width="846" height="401" alt="image" src="https://github.com/user-attachments/assets/27855f31-b9d1-4065-8f90-f5cca999d55a" />
 
