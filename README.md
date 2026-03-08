@@ -64,7 +64,7 @@ N8N/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/n8n-dashboard.git
+https://github.com/umerhafiz2000-tech/n8n-dashboard-webapp.git
 ```
 
 ```bash
