@@ -147,6 +147,8 @@ Open `static/index.html` in your browser to view the dashboard.
 # Screenshots
 <img width="940" height="431" alt="image" src="https://github.com/user-attachments/assets/977cb7b1-52c8-49f3-bad3-e26cc3bcfacb" />
 <img width="923" height="356" alt="image" src="https://github.com/user-attachments/assets/015da259-2e4d-4611-ba6c-69b6bbced4ee" />
+
+
 # We can search the nodes inside the workflows as well.
 <img width="292" height="321" alt="image" src="https://github.com/user-attachments/assets/272cf1d1-80ad-4d5c-b712-f7f2696ac201" />
 
