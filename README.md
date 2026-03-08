@@ -6,6 +6,10 @@ This application provides quick insights into workflow activity by displaying th
 
 The frontend is built using **HTML, CSS, and JavaScript**, while the backend uses **FastAPI** to fetch and process data from the n8n API.
 
+# Which problem did it solved?
+
+Managing automation workflows can get messy — when you have multiple workflows running in n8n, it’s hard to quickly see which ones are active, which ones are inactive, and how many nodes each workflow uses. I built this N8N Dashboard Web App to solve that. Now, everything is visible in one place: total workflows, active/inactive status, node counts, and even direct access to workflows — no more switching between tabs or manually checking each workflow. It makes monitoring automation fast and effortless
+
 ---
 
 # Features
